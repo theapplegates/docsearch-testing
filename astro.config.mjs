@@ -14,5 +14,5 @@ export default defineConfig({
   react(), image({
       serviceEntryPoint: '@astrojs/image/sharp'
     })],
-  site: `http://docsearch.paulapplegate.com`
+  site: `https://docsearch.paulapplegate.com`
 });

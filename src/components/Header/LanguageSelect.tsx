@@ -10,7 +10,7 @@ const LanguageSelect: FunctionComponent<{ lang: string }> = ({ lang }) => {
 				aria-hidden="true"
 				focusable="false"
 				role="img"
-				xmlns="http://www.w3.org/2000/svg"
+				xmlns="https://www.w3.org/2000/svg"
 				viewBox="0 0 88.6 77.3"
 				height="1.2em"
 				width="1.2em"
